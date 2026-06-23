@@ -1,0 +1,69 @@
+<svg width="860" height="90" viewBox="0 0 860 90" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <style>
+      @import url('https://fonts.googleapis.com/css2?family=Google+Sans:wght@400;500;700&amp;display=swap');
+      .stat-num {
+        font-family: 'Google Sans', system-ui, sans-serif;
+        font-size: 28px;
+        font-weight: 700;
+        fill: #0a0a0a;
+      }
+      .stat-label {
+        font-family: 'Google Sans', system-ui, sans-serif;
+        font-size: 11px;
+        font-weight: 500;
+        fill: #888888;
+        letter-spacing: 0.8px;
+        text-transform: uppercase;
+      }
+      .stat-block {
+        animation: fadeUp 0.7s cubic-bezier(0.22,1,0.36,1) both;
+      }
+      .s1 { animation-delay: 0.05s; }
+      .s2 { animation-delay: 0.15s; }
+      .s3 { animation-delay: 0.25s; }
+      .s4 { animation-delay: 0.35s; }
+      @keyframes fadeUp {
+        from { opacity: 0; transform: translateY(10px); }
+        to   { opacity: 1; transform: translateY(0); }
+      }
+    </style>
+  </defs>
+  
+  <rect width="860" height="90" fill="#fafafa" rx="10"/>
+  
+  <!-- Dividers -->
+  <line x1="215" y1="20" x2="215" y2="70" stroke="#eeeeee" stroke-width="1"/>
+  <line x1="430" y1="20" x2="430" y2="70" stroke="#eeeeee" stroke-width="1"/>
+  <line x1="645" y1="20" x2="645" y2="70" stroke="#eeeeee" stroke-width="1"/>
+  
+  <!-- Stat 1: Experience -->
+  <g class="stat-block s1">
+    <text x="107" y="52" text-anchor="middle" class="stat-num">3+</text>
+    <text x="107" y="68" text-anchor="middle" class="stat-label">Years Building</text>
+  </g>
+  
+  <!-- Stat 2: Clients -->
+  <g class="stat-block s2">
+    <text x="322" y="52" text-anchor="middle" class="stat-num">5+</text>
+    <text x="322" y="68" text-anchor="middle" class="stat-label">Live Client Sites</text>
+  </g>
+  
+  <!-- Stat 3: Stack -->
+  <g class="stat-block s3">
+    <text x="537" y="52" text-anchor="middle" class="stat-num">Full</text>
+    <text x="537" y="68" text-anchor="middle" class="stat-label">Stack + AI/ML</text>
+  </g>
+  
+  <!-- Stat 4: Location -->
+  <g class="stat-block s4">
+    <text x="752" y="52" text-anchor="middle" class="stat-num">LK</text>
+    <text x="752" y="68" text-anchor="middle" class="stat-label">Sri Lanka · Remote</text>
+  </g>
+  
+  <!-- Accent dots under numbers -->
+  <circle cx="107" cy="76" r="2.5" fill="#B5E64D"/>
+  <circle cx="322" cy="76" r="2.5" fill="#B5E64D"/>
+  <circle cx="537" cy="76" r="2.5" fill="#B5E64D"/>
+  <circle cx="752" cy="76" r="2.5" fill="#B5E64D"/>
+</svg>
