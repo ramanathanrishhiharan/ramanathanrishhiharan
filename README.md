@@ -1,38 +1,55 @@
+<!-- HEADER SVG — commit header.svg to this repo root -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/ramanathanrishhiharan/ramanathanrishhiharan/main/header.svg" width="100%" alt="Ramanathan Rishiharan" />
+</div>
+
+<br/>
+
+<!-- QUICK LINKS -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=B5E64D&height=4&width=100%25" />
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=B5E64D&labelColor=0a0a0a)](https://linkedin.com/in/ramanathanrishiharan74)&nbsp;&nbsp;
+[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-0a0a0a?style=for-the-badge&logo=browser&logoColor=B5E64D&labelColor=0a0a0a)](https://rishiharan.vercel.app)&nbsp;&nbsp;
+[![Hugging Face](https://custom-icon-badges.demolab.com/badge/HuggingFace-0a0a0a?style=for-the-badge&logo=huggingface&logoColor=B5E64D&labelColor=0a0a0a)](https://huggingface.co/spaces/Rishiharan)&nbsp;&nbsp;
+[![Email](https://custom-icon-badges.demolab.com/badge/Email-0a0a0a?style=for-the-badge&logo=gmail&logoColor=B5E64D&labelColor=0a0a0a)](mailto:ramanathanrishiharan2003@gmail.com)
 
 </div>
 
 <br/>
 
+<!-- STATS BAR SVG — commit stats_bar.svg to this repo root -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/ramanathanrishhiharan/ramanathanrishhiharan/main/stats_bar.svg" width="100%" alt="Stats" />
+</div>
+
+<br/>
+
+<!-- DIVIDER -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/ramanathanrishhiharan/ramanathanrishhiharan/main/divider.svg" width="100%" />
+</div>
+
+<br/>
+
+## Work
+
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="62%" valign="top">
+<td width="48%" valign="top">
 
-<h1 style="font-size:2.6em;font-weight:800;letter-spacing:-1px;margin:0;line-height:1.1">
-Ramanathan<br/>Rishhiharan
-</h1>
+### Co-Director, Head of AI & Web Solutions
+**[Binory](https://binory.netlify.app)** &nbsp;·&nbsp; Nov 2024 – Present
 
-<br/>
-
-<p style="font-size:1em;color:#555555;max-width:420px;line-height:1.75;margin:0">
-Full-stack engineer and ML practitioner based in Sri Lanka.
-I build end-to-end intelligent systems — from model training to production UIs —
-for clients across the UK, EU, and South Asia.
-Currently deep in the <strong>100 ML Projects</strong> challenge while shipping <strong>ResumeAI</strong>.
-</p>
-
-<br/>
-
-[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0a0a0a?style=for-the-badge&logo=linkedin&logoColor=B5E64D)](https://linkedin.com/in/ramanathanrishiharan74)&nbsp;
-[![Portfolio](https://custom-icon-badges.demolab.com/badge/Portfolio-0a0a0a?style=for-the-badge&logo=browser&logoColor=B5E64D)](https://rishiharan.vercel.app)&nbsp;
-[![GitHub](https://custom-icon-badges.demolab.com/badge/GitHub-0a0a0a?style=for-the-badge&logo=github&logoColor=B5E64D)](https://github.com/ramanathanrishhiharan)
+Lead development of web applications and AI-powered solutions for startups and businesses across Sri Lanka, the UK, and the EU. Architect fullstack systems from product strategy and UI design through to backend, deployment, and ongoing operations.
 
 </td>
-<td width="38%" align="right" valign="top">
+<td width="4%"></td>
+<td width="48%" valign="top">
 
-<img src="https://raw.githubusercontent.com/ramanathanrishhiharan/ramanathanrishhiharan/main/profile.png" width="160px" style="border-radius:12px;border:2.5px solid #B5E64D;filter:drop-shadow(0px 12px 22.3px rgba(181,230,77,0.22)) drop-shadow(0px 4px 8px rgba(0,0,0,0.08))" />
+### Frontend Developer
+**[Un4cus (Pvt) Ltd](https://un4cus.com)** &nbsp;·&nbsp; Nov 2025 – Jun 2026
+
+Developed production-grade web applications using React, Next.js, and TypeScript. Built reusable component systems, integrated REST APIs, and collaborated with designers and backend engineers to deliver high-quality, conversion-focused interfaces.
 
 </td>
 </tr>
@@ -40,53 +57,72 @@ Currently deep in the <strong>100 ML Projects</strong> challenge while shipping 
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=f0f0f0&height=1&width=100%25" />
+<!-- DIVIDER -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/ramanathanrishhiharan/ramanathanrishhiharan/main/divider.svg" width="100%" />
+</div>
 
 <br/>
 
-### What I'm working on
+## Selected Projects
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
-**[ResumeAI](https://github.com/ramanathanrishhiharan/ResumeAI)**&nbsp;&nbsp;<sup>`Active`</sup>
+**[ResumeAI](https://github.com/ramanathanrishhiharan/ResumeAI)** &nbsp;<sup>`Active`</sup>
 
-ATS resume scoring engine with NLP-powered gap analysis. Built to give candidates a real, quantifiable edge over keyword-blind applicants.
+ATS resume scoring engine with NLP-powered gap analysis. Gives candidates a quantifiable edge over keyword-blind systems.
 
-<sub>Python · NLP · FastAPI · Hugging Face</sub>
+`Python` &nbsp;`FastAPI` &nbsp;`Machine Learning` &nbsp;`React`
 
 </td>
-<td width="8%"></td>
-<td width="42%" valign="top">
+<td width="4%"></td>
+<td width="48%" valign="top">
 
-**[100 ML Projects](https://github.com/ramanathanrishhiharan/100_ML_projects)**&nbsp;&nbsp;<sup>`Active`</sup>
+**[100 ML Projects](https://github.com/ramanathanrishhiharan/100_ML_projects)** &nbsp;<sup>`Active`</sup>
 
 End-to-end ML implementations from scratch — a living, public record of applied machine learning across domains.
 
-<sub>Python · scikit-learn · TensorFlow · PyTorch</sub>
+`Python` &nbsp;`scikit-learn` &nbsp;`TensorFlow` &nbsp;`NumPy`
 
 </td>
 </tr>
-<tr><td colspan="3"><br/></td></tr>
+<tr><td colspan="3">&nbsp;</td></tr>
 <tr>
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
-**[DevGate](https://github.com/ramanathanrishhiharan/devgate)**&nbsp;&nbsp;<sup>`Shipped`</sup>
+**[DevGate](https://github.com/ramanathanrishhiharan/devgate)** &nbsp;<sup>`Shipped`</sup>
 
-API gateway from scratch — JWT auth, bcrypt, atomic rate limiting, and a circuit breaker state machine. Two-service architecture across Node.js + FastAPI.
+API gateway from scratch — JWT auth, bcrypt, atomic rate limiting, and a circuit breaker state machine. Two-service architecture: Node.js gateway + FastAPI microservice.
 
-<sub>Node.js · FastAPI · PostgreSQL · JWT</sub>
+`Node.js` &nbsp;`FastAPI` &nbsp;`PostgreSQL` &nbsp;`JWT`
 
 </td>
-<td width="8%"></td>
-<td width="42%" valign="top">
+<td width="4%"></td>
+<td width="48%" valign="top">
 
-**[LocalFlow](https://github.com/ramanathanrishhiharan/localflow)**&nbsp;&nbsp;<sup>`In Progress`</sup>
+**[Fashion Marketplace Classifier](https://huggingface.co/spaces/Rishiharan/Dress_image_Classifier)** &nbsp;<sup>`Live`</sup>
 
-Local-first AI task automation. Zero cloud dependency, full data privacy. Runs entirely on-device.
+Image verification pipeline for validating seller-uploaded product images. Automated classification that reduces manual review overhead on marketplace platforms.
 
-<sub>Python · AI · CLI</sub>
+`Python` &nbsp;`Computer Vision` &nbsp;`HuggingFace`
+
+</td>
+</tr>
+<tr><td colspan="3">&nbsp;</td></tr>
+<tr>
+<td width="48%" valign="top">
+
+**AI Mental Health Assistant** &nbsp;<sup>`Shipped`</sup>
+
+RAG chatbot focused on mental health support. Built frontend features, conversational interfaces, and document retrieval workflows for context-aware AI responses.
+
+`React` &nbsp;`Next.js` &nbsp;`LLM` &nbsp;`Vector Search`
+
+</td>
+<td width="4%"></td>
+<td width="48%" valign="top">
 
 </td>
 </tr>
@@ -94,46 +130,125 @@ Local-first AI task automation. Zero cloud dependency, full data privacy. Runs e
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=f0f0f0&height=1&width=100%25" />
-
-<br/>
-
-### Stack
-
-<br/>
-
-<div>
-
-<img src="https://skillicons.dev/icons?i=python&theme=light" width="48" height="48" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.14)) drop-shadow(0px -2px 0px rgba(0,0,0,0.04));margin:6px" />&nbsp;
-<img src="https://skillicons.dev/icons?i=ts&theme=light" width="48" height="48" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.14)) drop-shadow(0px -2px 0px rgba(0,0,0,0.04));margin:6px" />&nbsp;
-<img src="https://skillicons.dev/icons?i=nextjs&theme=light" width="48" height="48" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.14)) drop-shadow(0px -2px 0px rgba(0,0,0,0.04));margin:6px" />&nbsp;
-<img src="https://skillicons.dev/icons?i=react&theme=light" width="48" height="48" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.14)) drop-shadow(0px -2px 0px rgba(0,0,0,0.04));margin:6px" />&nbsp;
-<img src="https://skillicons.dev/icons?i=fastapi&theme=light" width="48" height="48" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.14)) drop-shadow(0px -2px 0px rgba(0,0,0,0.04));margin:6px" />&nbsp;
-<img src="https://skillicons.dev/icons?i=tensorflow&theme=light" width="48" height="48" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.14)) drop-shadow(0px -2px 0px rgba(0,0,0,0.04));margin:6px" />&nbsp;
-<img src="https://skillicons.dev/icons?i=pytorch&theme=light" width="48" height="48" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.14)) drop-shadow(0px -2px 0px rgba(0,0,0,0.04));margin:6px" />&nbsp;
-<img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.14)) drop-shadow(0px -2px 0px rgba(0,0,0,0.04));margin:6px" />&nbsp;
-<img src="https://skillicons.dev/icons?i=postgres&theme=light" width="48" height="48" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.14)) drop-shadow(0px -2px 0px rgba(0,0,0,0.04));margin:6px" />&nbsp;
-<img src="https://skillicons.dev/icons?i=tailwind&theme=light" width="48" height="48" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.14)) drop-shadow(0px -2px 0px rgba(0,0,0,0.04));margin:6px" />&nbsp;
-<img src="https://skillicons.dev/icons?i=docker&theme=light" width="48" height="48" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.14)) drop-shadow(0px -2px 0px rgba(0,0,0,0.04));margin:6px" />&nbsp;
-<img src="https://skillicons.dev/icons?i=linux&theme=light" width="48" height="48" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.14)) drop-shadow(0px -2px 0px rgba(0,0,0,0.04));margin:6px" />&nbsp;
-<img src="https://skillicons.dev/icons?i=git&theme=light" width="48" height="48" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.14)) drop-shadow(0px -2px 0px rgba(0,0,0,0.04));margin:6px" />&nbsp;
-<img src="https://skillicons.dev/icons?i=vercel&theme=light" width="48" height="48" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.14)) drop-shadow(0px -2px 0px rgba(0,0,0,0.04));margin:6px" />
-
+<!-- DIVIDER -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/ramanathanrishhiharan/ramanathanrishhiharan/main/divider.svg" width="100%" />
 </div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=f0f0f0&height=1&width=100%25" />
+## Shipped for clients
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="48%" valign="top">
+
+**[primeleed.com](https://primeleed.com)** &nbsp;·&nbsp; UK
+
+Lead-generation platform for an international education consultancy. Next.js, TypeScript, Resend, ZOHO CRM — from design brief to production deployment.
+
+</td>
+<td width="4%"></td>
+<td width="48%" valign="top">
+
+**[studentfinancechecker.co.uk](https://studentfinancechecker.co.uk)** &nbsp;·&nbsp; UK
+
+Student finance eligibility and repayment platform. Designed to simplify a complex financial decision for a UK student audience.
+
+</td>
+</tr>
+<tr><td colspan="3">&nbsp;</td></tr>
+<tr>
+<td width="48%" valign="top">
+
+**[runlanka.netlify.app](https://runlanka.netlify.app)**
+
+Jewellery and money exchange shop. Responsive, conversion-focused.
+
+</td>
+<td width="4%"></td>
+<td width="48%" valign="top">
+
+**[tthoughts.netlify.app](https://tthoughts.netlify.app)**
+
+Creative and content creation agency site.
+
+</td>
+</tr>
+</table>
 
 <br/>
 
-### Stats
+<!-- DIVIDER -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/ramanathanrishhiharan/ramanathanrishhiharan/main/divider.svg" width="100%" />
+</div>
+
+<br/>
+
+## Stack
+
+<br/>
+
+<!-- FRONTEND -->
+**Frontend**
+
+<img src="https://skillicons.dev/icons?i=react" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
+<img src="https://skillicons.dev/icons?i=nextjs" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
+<img src="https://skillicons.dev/icons?i=ts" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
+<img src="https://skillicons.dev/icons?i=js" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
+<img src="https://skillicons.dev/icons?i=tailwind" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
+<img src="https://skillicons.dev/icons?i=html" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
+<img src="https://skillicons.dev/icons?i=css" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />
+
+<br/>
+
+**Backend & Data**
+
+<img src="https://skillicons.dev/icons?i=nodejs" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
+<img src="https://skillicons.dev/icons?i=express" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
+<img src="https://skillicons.dev/icons?i=fastapi" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
+<img src="https://skillicons.dev/icons?i=flask" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
+<img src="https://skillicons.dev/icons?i=mongodb" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
+<img src="https://skillicons.dev/icons?i=mysql" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />
+
+<br/>
+
+**AI / ML**
+
+<img src="https://skillicons.dev/icons?i=python" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
+<img src="https://skillicons.dev/icons?i=tensorflow" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
+<img src="https://skillicons.dev/icons?i=pytorch" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
+<img src="https://skillicons.dev/icons?i=sklearn" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
+<img src="https://skillicons.dev/icons?i=opencv" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />
+
+<br/>
+
+**Tooling & Platforms**
+
+<img src="https://skillicons.dev/icons?i=git" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
+<img src="https://skillicons.dev/icons?i=github" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
+<img src="https://skillicons.dev/icons?i=vercel" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
+<img src="https://skillicons.dev/icons?i=figma" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
+<img src="https://skillicons.dev/icons?i=docker" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
+<img src="https://skillicons.dev/icons?i=vscode" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
+<img src="https://skillicons.dev/icons?i=jupyter" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />
+
+<br/>
+
+<!-- DIVIDER -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/ramanathanrishhiharan/ramanathanrishhiharan/main/divider.svg" width="100%" />
+</div>
+
+<br/>
+
+## GitHub Stats
 
 <div align="center">
 
-<img height="168" src="https://github-readme-stats.vercel.app/api?username=ramanathanrishhiharan&show_icons=true&hide_border=true&title_color=0a0a0a&text_color=444444&icon_color=B5E64D&bg_color=00000000&ring_color=B5E64D&include_all_commits=true&count_private=true" />
-&nbsp;&nbsp;
-<img height="168" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramanathanrishhiharan&layout=compact&hide_border=true&title_color=0a0a0a&text_color=444444&bg_color=00000000" />
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=ramanathanrishhiharan&show_icons=true&hide_border=true&title_color=0a0a0a&text_color=444444&icon_color=B5E64D&bg_color=00000000&ring_color=B5E64D&include_all_commits=true&count_private=true" />&nbsp;&nbsp;<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ramanathanrishhiharan&layout=compact&hide_border=true&title_color=0a0a0a&text_color=444444&bg_color=00000000" />
 
 </div>
 
@@ -145,49 +260,52 @@ Local-first AI task automation. Zero cloud dependency, full data privacy. Runs e
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=f0f0f0&height=1&width=100%25" />
+<!-- ACTIVITY GRAPH -->
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramanathanrishhiharan&bg_color=ffffff&color=888888&line=0a0a0a&point=B5E64D&area=true&area_color=B5E64D&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
 
 <br/>
 
-### Shipped for real clients
-
-<table width="100%">
-<tr>
-<td width="50%">
-
-**[primeleed.com](https://primeleed.com)**
-
-Full website build for a UK-based education consultancy. Marketing site, student inquiry flows, and content management — from design brief to production.
-
-</td>
-<td width="8%"></td>
-<td width="42%">
-
-**[studentfinancechecker.co.uk](https://studentfinancechecker.co.uk)**
-
-Student finance eligibility and loan repayment guide — a content-heavy informational product built to spec for a UK audience.
-
-</td>
-</tr>
-</table>
+<!-- DIVIDER -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/ramanathanrishhiharan/ramanathanrishhiharan/main/divider.svg" width="100%" />
+</div>
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=f0f0f0&height=1&width=100%25" />
+## Education
+
+**Bachelor of Computer Science with Artificial Intelligence** &nbsp;·&nbsp; 2nd Year &nbsp;·&nbsp; Expected 2026
+
+National Institute of Business Management (NIBM) &nbsp;·&nbsp; Sri Lanka
+
+Relevant coursework: Machine Learning · Computer Vision · NLP · Backend Development · Data Structures · Algorithms
 
 <br/>
 
-<table width="100%">
+<!-- DIVIDER -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/ramanathanrishhiharan/ramanathanrishhiharan/main/divider.svg" width="100%" />
+</div>
+
+<br/>
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
 <td valign="middle">
-<sub><strong>Ramanathan Rishhiharan</strong> · Sri Lanka · Open to collaborations and interesting problems</sub>
+<strong>Ramanathan Rishiharan</strong> &nbsp;·&nbsp; Sri Lanka &nbsp;·&nbsp; Open to remote opportunities worldwide
 </td>
 <td align="right" valign="middle">
-<a href="https://rishiharan.vercel.app"><sub>rishiharan.vercel.app</sub></a>
+<a href="https://rishiharan.vercel.app">rishiharan.vercel.app</a>
 </td>
 </tr>
 </table>
 
+<br/>
+
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=rect&color=B5E64D&height=4&width=100%25" />
+<img src="https://raw.githubusercontent.com/ramanathanrishhiharan/ramanathanrishhiharan/main/divider.svg" width="100%" />
 </div>
