@@ -17,14 +17,13 @@
 
 <br/>
 
-<!-- STATS BAR SVG — commit stats_bar.svg to this repo root -->
+<!-- STATS BAR SVG -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/ramanathanrishhiharan/ramanathanrishhiharan/main/stats_bar.svg" width="100%" alt="Stats" />
 </div>
 
 <br/>
 
-<!-- DIVIDER -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/ramanathanrishhiharan/ramanathanrishhiharan/main/divider.svg" width="100%" />
 </div>
@@ -37,10 +36,10 @@
 <tr>
 <td width="48%" valign="top">
 
-### Co-Director, Head of AI & Web Solutions
+### Co-Director, Head of AI and Web Solutions
 **[Binory](https://binory.netlify.app)** &nbsp;·&nbsp; Nov 2024 – Present
 
-Lead development of web applications and AI-powered solutions for startups and businesses across Sri Lanka, the UK, and the EU. Architect fullstack systems from product strategy and UI design through to backend, deployment, and ongoing operations.
+Leading development of web applications and AI-powered solutions for startups and businesses across Sri Lanka, the UK, and the EU. Architecting fullstack systems from product strategy and UI design through to backend, deployment, and ongoing operations.
 
 </td>
 <td width="4%"></td>
@@ -49,7 +48,7 @@ Lead development of web applications and AI-powered solutions for startups and b
 ### Frontend Developer
 **[Un4cus (Pvt) Ltd](https://un4cus.com)** &nbsp;·&nbsp; Nov 2025 – Jun 2026
 
-Developed production-grade web applications using React, Next.js, and TypeScript. Built reusable component systems, integrated REST APIs, and collaborated with designers and backend engineers to deliver high-quality, conversion-focused interfaces.
+Built production-grade web applications using React, Next.js, and TypeScript. Developed reusable component systems, integrated REST APIs, and collaborated with designers and backend engineers to ship high-quality, conversion-focused interfaces.
 
 </td>
 </tr>
@@ -57,7 +56,34 @@ Developed production-grade web applications using React, Next.js, and TypeScript
 
 <br/>
 
-<!-- DIVIDER -->
+<div align="center">
+<img src="https://raw.githubusercontent.com/ramanathanrishhiharan/ramanathanrishhiharan/main/divider.svg" width="100%" />
+</div>
+
+<br/>
+
+## Featured Project
+
+> **FreelanceOS** is my most ambitious ongoing project: an open-source business operating system for creative freelancers and agencies, actively in development.
+
+<table width="100%" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="100%" valign="top">
+
+**[FreelanceOS](https://github.com/ramanathanrishhiharan/freelancer_operations)** &nbsp;<sup>`In Development`</sup>&nbsp; `Open Source`
+
+Most freelancers run their business across five or six disconnected tools. FreelanceOS replaces that patchwork with a single workspace covering client management, lead tracking, project management, and business operations, built specifically for designers, developers, and creative agencies.
+
+Currently shipping a production-grade CRM backend with JWT auth, Spring Security, and a clean layered architecture. The roadmap extends into invoicing, time tracking, AI assistance, and client portals.
+
+`Java 21` &nbsp;`Spring Boot` &nbsp;`Spring Security` &nbsp;`PostgreSQL` &nbsp;`JWT` &nbsp;`Next.js` &nbsp;`TypeScript` &nbsp;`Tailwind CSS`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
 <div align="center">
 <img src="https://raw.githubusercontent.com/ramanathanrishhiharan/ramanathanrishhiharan/main/divider.svg" width="100%" />
 </div>
@@ -72,7 +98,7 @@ Developed production-grade web applications using React, Next.js, and TypeScript
 
 **[ResumeAI](https://github.com/ramanathanrishhiharan/ResumeAI)** &nbsp;<sup>`Active`</sup>
 
-ATS resume scoring engine with NLP-powered gap analysis. Gives candidates a quantifiable edge over keyword-blind systems.
+ATS resume scoring engine with NLP-powered gap analysis. Gives candidates a measurable edge over keyword-blind screening systems.
 
 `Python` &nbsp;`FastAPI` &nbsp;`Machine Learning` &nbsp;`React`
 
@@ -82,7 +108,7 @@ ATS resume scoring engine with NLP-powered gap analysis. Gives candidates a quan
 
 **[100 ML Projects](https://github.com/ramanathanrishhiharan/100_ML_projects)** &nbsp;<sup>`Active`</sup>
 
-End-to-end ML implementations from scratch — a living, public record of applied machine learning across domains.
+End-to-end ML implementations from scratch. A living, public record of applied machine learning across domains.
 
 `Python` &nbsp;`scikit-learn` &nbsp;`TensorFlow` &nbsp;`NumPy`
 
@@ -94,7 +120,7 @@ End-to-end ML implementations from scratch — a living, public record of applie
 
 **[DevGate](https://github.com/ramanathanrishhiharan/devgate)** &nbsp;<sup>`Shipped`</sup>
 
-API gateway from scratch — JWT auth, bcrypt, atomic rate limiting, and a circuit breaker state machine. Two-service architecture: Node.js gateway + FastAPI microservice.
+API gateway built from scratch with JWT auth, bcrypt, atomic rate limiting, and a circuit breaker state machine. Two-service architecture: Node.js gateway and FastAPI microservice.
 
 `Node.js` &nbsp;`FastAPI` &nbsp;`PostgreSQL` &nbsp;`JWT`
 
@@ -104,7 +130,7 @@ API gateway from scratch — JWT auth, bcrypt, atomic rate limiting, and a circu
 
 **[Fashion Marketplace Classifier](https://huggingface.co/spaces/Rishiharan/Dress_image_Classifier)** &nbsp;<sup>`Live`</sup>
 
-Image verification pipeline for validating seller-uploaded product images. Automated classification that reduces manual review overhead on marketplace platforms.
+Image verification pipeline for validating seller-uploaded product photos. Automated classification that reduces manual review overhead on marketplace platforms.
 
 `Python` &nbsp;`Computer Vision` &nbsp;`HuggingFace`
 
@@ -116,7 +142,7 @@ Image verification pipeline for validating seller-uploaded product images. Autom
 
 **AI Mental Health Assistant** &nbsp;<sup>`Shipped`</sup>
 
-RAG chatbot focused on mental health support. Built frontend features, conversational interfaces, and document retrieval workflows for context-aware AI responses.
+RAG chatbot focused on mental health support. Built the frontend, conversational interfaces, and document retrieval workflows for context-aware AI responses.
 
 `React` &nbsp;`Next.js` &nbsp;`LLM` &nbsp;`Vector Search`
 
@@ -130,14 +156,13 @@ RAG chatbot focused on mental health support. Built frontend features, conversat
 
 <br/>
 
-<!-- DIVIDER -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/ramanathanrishhiharan/ramanathanrishhiharan/main/divider.svg" width="100%" />
 </div>
 
 <br/>
 
-## Shipped for clients
+## Shipped for Clients
 
 <table width="100%" border="0" cellspacing="0" cellpadding="0">
 <tr>
@@ -145,7 +170,7 @@ RAG chatbot focused on mental health support. Built frontend features, conversat
 
 **[primeleed.com](https://primeleed.com)** &nbsp;·&nbsp; UK
 
-Lead-generation platform for an international education consultancy. Next.js, TypeScript, Resend, ZOHO CRM — from design brief to production deployment.
+Lead-generation platform for an international education consultancy. Built with Next.js, TypeScript, Resend, and ZOHO CRM, from design brief to production deployment.
 
 </td>
 <td width="4%"></td>
@@ -163,7 +188,7 @@ Student finance eligibility and repayment platform. Designed to simplify a compl
 
 **[runlanka.netlify.app](https://runlanka.netlify.app)**
 
-Jewellery and money exchange shop. Responsive, conversion-focused.
+Jewellery and money exchange shop. Responsive and conversion-focused.
 
 </td>
 <td width="4%"></td>
@@ -179,7 +204,6 @@ Creative and content creation agency site.
 
 <br/>
 
-<!-- DIVIDER -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/ramanathanrishhiharan/ramanathanrishhiharan/main/divider.svg" width="100%" />
 </div>
@@ -190,7 +214,6 @@ Creative and content creation agency site.
 
 <br/>
 
-<!-- FRONTEND -->
 **Frontend**
 
 <img src="https://skillicons.dev/icons?i=react" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
@@ -203,8 +226,10 @@ Creative and content creation agency site.
 
 <br/>
 
-**Backend & Data**
+**Backend and Data**
 
+<img src="https://skillicons.dev/icons?i=java" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
+<img src="https://skillicons.dev/icons?i=spring" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
 <img src="https://skillicons.dev/icons?i=nodejs" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
 <img src="https://skillicons.dev/icons?i=express" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
 <img src="https://skillicons.dev/icons?i=fastapi" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
@@ -215,7 +240,7 @@ Creative and content creation agency site.
 
 <br/>
 
-**AI / ML**
+**AI and ML**
 
 <img src="https://skillicons.dev/icons?i=python" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
 <img src="https://skillicons.dev/icons?i=tensorflow" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
@@ -225,7 +250,7 @@ Creative and content creation agency site.
 
 <br/>
 
-**Tooling & Platforms**
+**Tooling and Platforms**
 
 <img src="https://skillicons.dev/icons?i=git" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
 <img src="https://skillicons.dev/icons?i=github" width="56" height="56" style="filter:drop-shadow(0px 12px 22.3px rgba(0,0,0,0.13));margin:5px" />&nbsp;
@@ -237,7 +262,6 @@ Creative and content creation agency site.
 
 <br/>
 
-<!-- DIVIDER -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/ramanathanrishhiharan/ramanathanrishhiharan/main/divider.svg" width="100%" />
 </div>
@@ -260,7 +284,6 @@ Creative and content creation agency site.
 
 <br/>
 
-<!-- ACTIVITY GRAPH -->
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ramanathanrishhiharan&bg_color=ffffff&color=888888&line=0a0a0a&point=B5E64D&area=true&area_color=B5E64D&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
@@ -269,7 +292,6 @@ Creative and content creation agency site.
 
 <br/>
 
-<!-- DIVIDER -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/ramanathanrishhiharan/ramanathanrishhiharan/main/divider.svg" width="100%" />
 </div>
@@ -286,7 +308,6 @@ Relevant coursework: Machine Learning · Computer Vision · NLP · Backend Devel
 
 <br/>
 
-<!-- DIVIDER -->
 <div align="center">
 <img src="https://raw.githubusercontent.com/ramanathanrishhiharan/ramanathanrishhiharan/main/divider.svg" width="100%" />
 </div>
